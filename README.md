@@ -5,4 +5,4 @@
 + [Hiểu sâu hơn về Activity](https://duythanhcse.wordpress.com/2013/03/27/bai-tap-5-tim-hieu-vong-doi-cua-mot-ung-dung-android/)
 
 ##Chú ý
-+ Có 2 cách hủy Activity: nhấn nút Finish và hệ thống tự gọi phương thức Destroy; khi nhấn nút Back Press thì hệ thống cũng tự gọi Destory và hủy Activity
++ Có 2 cách hủy Activity: nhấn nút Finish và hệ thống tự gọi phương thức Destroy; khi nhấn nút Back Press thì hệ thống cũng tự gọi Destroy và hủy Activity
