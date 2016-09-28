@@ -6,3 +6,4 @@
 
 ##Chú ý
 + Có 2 cách hủy Activity: nhấn nút Finish và hệ thống tự gọi phương thức Destroy; khi nhấn nút Back Press thì hệ thống cũng tự gọi Destroy và hủy Activity
++ [Các trạng thái trong vòng đời Activity](http://code5s.com/di-dong/android/vng-doi-cua-ung-dung-android.html)
